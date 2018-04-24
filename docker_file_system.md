@@ -1,4 +1,4 @@
-Docker can use below file system as stroage.
+Docker can use below file system as storage.
 * vfs
 * devicemapper
 * btrfs
